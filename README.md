@@ -87,13 +87,6 @@ The dashboard uses a simulated Zomato dataset containing:
 
 # 📷 Dashboard Preview
 
-> Save your dashboard screenshot as:
-
-```
-Images/Dashboard Screenshot.png
-```
-
-Then upload it to GitHub and the image below will automatically appear.
 
 ![Zomato Sales Analytics Dashboard](Images/Dashboard%20Screenshot.png)
 
