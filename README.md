@@ -1,38 +1,43 @@
 # 🍽️ Zomato Sales Analytics Dashboard | Power BI
 
-## 📌 Project Overview
-
-The Zomato Sales Analytics Dashboard is an interactive Power BI project designed to analyze restaurant sales, customer behavior, revenue trends, delivery performance, and operational KPIs. The dashboard enables business users to monitor performance, identify high-performing restaurants, analyze customer preferences, and make data-driven decisions.
+An interactive **Power BI dashboard** built to analyze Zomato sales performance, customer behavior, restaurant performance, revenue trends, and delivery analytics. This project demonstrates the use of **Power Query**, **DAX**, and **interactive visualizations** to transform raw data into meaningful business insights.
 
 ---
 
-## 🎯 Objectives
+# 📌 Project Overview
 
-- Analyze overall business performance
-- Monitor revenue and order trends
+The Zomato Sales Analytics Dashboard provides a comprehensive view of restaurant operations and customer ordering patterns. It helps stakeholders monitor revenue, analyze restaurant performance, evaluate delivery efficiency, and understand customer preferences through interactive reports.
+
+---
+
+# 🎯 Business Objectives
+
+- Monitor overall business performance
+- Analyze revenue trends over time
 - Identify top-performing restaurants
-- Compare revenue across cities
-- Analyze cuisine popularity
-- Evaluate payment mode distribution
-- Track delivery performance
-- Provide interactive filtering for business insights
+- Compare revenue across different cities
+- Understand cuisine preferences
+- Evaluate payment method usage
+- Analyze order status distribution
+- Monitor online delivery adoption
+- Enable interactive business reporting
 
 ---
 
-## 📊 Dashboard KPIs
+# 📊 Dashboard KPIs
 
-- Total Revenue
-- Total Orders
-- Total Customers
-- Total Restaurants
-- Average Order Value
-- Average Delivery Time
-- Average Rating
-- Delivery Success Rate
+- 💰 Total Revenue
+- 📦 Total Orders
+- 👥 Total Customers
+- 🍽️ Total Restaurants
+- ⭐ Average Rating
+- 💳 Average Order Value
+- 🚚 Average Delivery Time
+- ✅ Delivery Success Rate
 
 ---
 
-## 📈 Dashboard Visualizations
+# 📈 Dashboard Visualizations
 
 - Revenue Trend
 - Monthly Revenue Trend
@@ -40,12 +45,12 @@ The Zomato Sales Analytics Dashboard is an interactive Power BI project designed
 - Revenue by Cuisine
 - Top 10 Restaurants by Revenue
 - Payment Mode Distribution
-- Order Status Analysis
+- Order Status Distribution
 - Online Delivery Analysis
 
 ---
 
-## 🎛 Interactive Filters
+# 🎛 Interactive Filters
 
 - City
 - Cuisine
@@ -53,67 +58,136 @@ The Zomato Sales Analytics Dashboard is an interactive Power BI project designed
 
 ---
 
-## 🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
-- Power BI Desktop
+- Microsoft Power BI
 - Power Query
-- DAX
+- DAX (Data Analysis Expressions)
 - Microsoft Excel
 
 ---
 
-## 📂 Dataset
+# 📂 Dataset Information
 
-The dataset contains simulated Zomato order information including:
+The dashboard uses a simulated Zomato dataset containing:
 
 - Order Details
 - Restaurant Information
 - Customer Information
 - Revenue
-- Discounts
-- Ratings
+- Discount
 - Delivery Time
 - Payment Mode
 - Order Status
+- Customer Ratings
+- Online Delivery Status
+- Table Booking Status
 
 ---
 
-## 📷 Dashboard Preview
+# 📷 Dashboard Preview
 
-> Add a screenshot of your completed dashboard here.
+> Save your dashboard screenshot as:
+
+```
+Images/Dashboard Screenshot.png
+```
+
+Then upload it to GitHub and the image below will automatically appear.
+
+![Zomato Sales Analytics Dashboard](Images/Dashboard%20Screenshot.png)
 
 ---
 
-## 📁 Project Structure
+# 📁 Repository Structure
 
 ```
 Zomato-Sales-Analytics-Dashboard/
 │
-├── Zomato Sales Analytics Dashboard.pbix
-├── Zomato_Professional_Dataset.xlsx
-├── Dashboard Screenshot.png
+├── Dashboard/
+│   └── Zomato Sales Analytics Dashboard.pbix
+│
+├── Dataset/
+│   └── Zomato_Professional_Dataset.xlsx
+│
+├── Images/
+│   └── Dashboard Screenshot.png
+│
 ├── README.md
+│
 └── LICENSE
 ```
 
 ---
 
-## ⭐ Key Insights
+# 📌 DAX Measures Used
 
-- Revenue performance across cities
-- Monthly sales trends
-- Top-performing restaurants
-- Most popular cuisines
-- Payment preferences
-- Online delivery adoption
-- Order status distribution
+- Total Revenue
+- Total Orders
+- Total Customers
+- Total Restaurants
+- Average Rating
+- Total Votes
+- Average Delivery Time
+- Total Discount
+- Average Order Value
+- Delivered Orders
+- Cancelled Orders
+- Pending Orders
+- Online Delivery Orders
+- Table Booking Orders
+- Online Delivery %
+- Table Booking %
+- Delivery Success Rate
 
 ---
 
-## 👩‍💻 Author
+# 📈 Key Business Insights
+
+- Revenue performance across cities
+- Monthly sales growth trends
+- Top-performing restaurants
+- Popular cuisine categories
+- Customer payment preferences
+- Order fulfillment status
+- Online delivery adoption
+- Overall customer satisfaction
+
+---
+
+# 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- KPI Development
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- Interactive Reporting
+- Analytical Storytelling
+
+---
+
+# ⭐ Future Enhancements
+
+- Customer Segmentation
+- Profit Analysis
+- Restaurant Performance Scorecard
+- Forecasting Revenue
+- Customer Retention Analysis
+- Geographic Mapping
+- Drill-through Reports
+
+---
+
+# 👩‍💻 Author
 
 **Sushma Rakesh**
 
-LinkedIn: https://linkedin.com/in/sushma-rakesh
+**Skills:** Power BI • SQL • Python • Excel • Data Analytics • Business Intelligence
 
-GitHub: https://github.com/
+---
+
+## ⭐ If you found this project useful, consider giving it a Star!
