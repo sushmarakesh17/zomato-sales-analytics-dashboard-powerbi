@@ -85,27 +85,22 @@ The dashboard uses a simulated Zomato dataset containing:
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-
-![Zomato Sales Analytics Dashboard](Images/Dashboard%20Screenshot.png)
-
+![Zomato Sales Analytics Dashboard](Dashboard%20Screenshot.png)
 ---
 
 ## 📁 Repository Structure
 
 ```text
-7.Zomato Dashboard/
+zomato-sales-analytics-dashboard-powerbi/
 │
-├── Zomato Sales Analytics Dashboard.pbix
-├── Zomato_Professional_Dataset.xlsx
 ├── Dashboard Screenshot.png
+├── LICENSE
 ├── README.md
-└── LICENSE
+├── Zomato_Professional-Dataset.xlsx
+└── dashboard.pbix
 ```
-```
-
----
 
 # 📌 DAX Measures Used
 
