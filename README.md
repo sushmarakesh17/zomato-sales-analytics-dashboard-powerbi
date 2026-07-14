@@ -99,23 +99,17 @@ Then upload it to GitHub and the image below will automatically appear.
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
-```
-Zomato-Sales-Analytics-Dashboard/
+```text
+7.Zomato Dashboard/
 │
-├── Dashboard/
-│   └── Zomato Sales Analytics Dashboard.pbix
-│
-├── Dataset/
-│   └── Zomato_Professional_Dataset.xlsx
-│
-├── Images/
-│   └── Dashboard Screenshot.png
-│
+├── Zomato Sales Analytics Dashboard.pbix
+├── Zomato_Professional_Dataset.xlsx
+├── Dashboard Screenshot.png
 ├── README.md
-│
 └── LICENSE
+```
 ```
 
 ---
